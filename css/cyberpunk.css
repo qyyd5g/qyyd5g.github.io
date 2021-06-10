@@ -6063,7 +6063,7 @@ fieldset[disabled] .button {
   align-items: center;
   background-color: #3ebce8;
   border-radius: 0;
-  color: #fff;
+  color: #000;
   display: inline-flex;
   font-size: 0.75rem;
   height: 2em;
